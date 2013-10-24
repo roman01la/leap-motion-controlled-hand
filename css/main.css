@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.splash {
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+}
+.splash h1 {
+  position: relative;
+}
